@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458100075 source:c:\users\luis pacheco\desktop\programacion de sistemas\expo\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

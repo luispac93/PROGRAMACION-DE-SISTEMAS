@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Programa1/Programa1.cbp" />
+		<Project filename="Programa2/Programa2.cbp" />
+		<Project filename="Programa3/Programa3.cbp" />
+		<Project filename="Programa4/Programa4.cbp" />
+		<Project filename="Programa5/Programa5.cbp" />
+		<Project filename="Programa6/Programa6.cbp" />
+		<Project filename="Programa7/Programa7.cbp" />
+		<Project filename="Programa8/Programa8.cbp" />
+		<Project filename="Tarea1/Tarea1.cbp" />
+		<Project filename="Programa10/Programa10.cbp" />
+		<Project filename="Programa11/Programa11.cbp" />
+		<Project filename="Programa12/Programa12.cbp" />
+		<Project filename="ValidarNumero/ValidarNumero.cbp" />
+		<Project filename="DoWhile/DoWhile.cbp" />
+		<Project filename="Funciones/Funciones.cbp" />
+		<Project filename="Funciones_Turnos/Funciones_Turnos.cbp" />
+		<Project filename="ARREGLO/ARREGLO.cbp" />
+		<Project filename="ARREGLOS PROM/ARREGLOS PROM.cbp" />
+		<Project filename="TAREA ARREGLOS/TAREA ARREGLOS.cbp" />
+		<Project filename="TAREA ARREGLOS 1/TAREA ARREGLOS 1.cbp" />
+		<Project filename="TAREA ARREGLOS 2/TAREA ARREGLOS 2.cbp" />
+		<Project filename="TAREA GRUPO 1/TAREA GRUPO 1.cbp" />
+		<Project filename="TRABAJO CLASE 1/TRABAJO CLASE 1.cbp" />
+		<Project filename="PRUEBA +/PRUEBA +.cbp" />
+		<Project filename="BIDI/BIDI.cbp" />
+		<Project filename="BIDI 1/BIDI 1.cbp" />
+		<Project filename="BIDI 2/BIDI 2.cbp" />
+		<Project filename="BIDI 3/BIDI 3.cbp" />
+		<Project filename="ESTRUCTURAS/ESTRUCTURAS.cbp" />
+		<Project filename="ESTRUCTURAS 1/ESTRUCTURAS 1.cbp" />
+		<Project filename="ESTRUCTURAS 2/ESTRUCTURAS 2.cbp" />
+		<Project filename="v/v.cbp" />
+		<Project filename="ESTRUCTURAS 3/ESTRUCTURAS 3.cbp" />
+		<Project filename="PRUEBA II/PRUEBA II.cbp" />
+		<Project filename="EXPO/EXPO.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

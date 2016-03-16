@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457477482 source:c:\users\luis pacheco\desktop\programacion de sistemas\bidi\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

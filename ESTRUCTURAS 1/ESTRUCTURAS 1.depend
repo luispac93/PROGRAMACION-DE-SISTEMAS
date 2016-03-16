@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457565363 source:c:\users\luis pacheco\desktop\programacion de sistemas\estructuras 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
